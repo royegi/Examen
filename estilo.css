@@ -1,0 +1,26 @@
+#hetop{text-align:center }
+#derecha{
+    padding-left: 200px;
+    padding-bottom: 200px;
+}
+nav{ text-align: center;
+    -webkit-text-fill-color: blue ;
+}
+#menu a:hover{ 
+    background-color: rgba(110, 250, 238, 0.877) 
+}
+hr{ color: blue}
+.textoazul1{color:blue;
+    text-align: center;
+    background-color: rgb(110, 234, 250)
+}
+.textoazul{color:blue;
+       
+}
+.textmorado{
+    color:mediumslateblue
+}
+.textmorado1{
+    color:mediumslateblue;
+    text-align: center
+}
